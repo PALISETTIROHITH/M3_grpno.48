@@ -43,6 +43,32 @@ By using a small Radio Transmitter and reciver we will make our project work.
 1.In case of mistouch the doors will be opened .
 2. we have to be careful while holding the key. 
 
+### SWOT ANALYSIS
+
+### STRENGTH
+works accurately and relaible circuit
+easy to use by pressing one switch 
+we can control from distance 
+
+
+
+
+### WEEKNESS
+Unable to do from long distance 
+
+
+
+
+
+### OPPORTUNITIES
+we can develope this product to use in different products and components. 
+
+
+
+
+### threats
+key can be dublicate and can be used by others to unlock the car . 
+
 
 
 

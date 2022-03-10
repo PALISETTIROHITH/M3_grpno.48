@@ -27,6 +27,25 @@ To secure you vehicle on parking .
 ### HOW
 By using a small Radio Transmitter and reciver we will make our project work.
 
+### High level Requirement 
+
+1. Automatically locks the car when necessary
+2. We can find the car eaasily
+3. Widely used in modern vehicles
+4.easy to replace in case of any problems 
+5.Lock or unlock the car from a distance 
+6. It can be used for Ignitation in some advance cases 
+
+
+
+### Low level Requirement
+
+1.In case of mistouch the doors will be opened .
+2. we have to be careful while holding the key. 
+
+
+
+
 
 
 
